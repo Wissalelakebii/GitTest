@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605332761978",
+    "project_id": "neyjr-36060",
+    "storage_bucket": "neyjr-36060.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605332761978:android:de3fa9e9f9a4f85f4afac3",
+        "android_client_info": {
+          "package_name": "com.example.buvapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605332761978-jj9ia4i1e4ncct7uh4ltgnohnnk7atnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7J1tHkdfzl1ufEEKSqt_P77kxWZYTuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605332761978-jj9ia4i1e4ncct7uh4ltgnohnnk7atnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
